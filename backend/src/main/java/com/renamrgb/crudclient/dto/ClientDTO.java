@@ -66,7 +66,7 @@ public class ClientDTO {
 		this.income = income;
 	}
 
-	public Instant getBirhDate() {
+	public Instant getBirthDate() {
 		return birthDate;
 	}
 
